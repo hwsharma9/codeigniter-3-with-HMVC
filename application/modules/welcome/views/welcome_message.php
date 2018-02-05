@@ -73,7 +73,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter, using HMVC.</p>
 
-		<p>To make the CodeIgniter 3 compatible with HMVC, the files available <a href="https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc">here</a> are used.</p>
+		<p>To make the CodeIgniter 3 compatible with HMVC, the files available <a href="https://github.com/hwsharma9/codeigniter-3-with-HMVC">here</a> are used.</p>
 
 		<p>If you would like to edit this page you'll find it located at:</p>
 		<code>application/modules/Welcome/views/welcome_message.php</code>
